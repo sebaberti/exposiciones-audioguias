@@ -1,0 +1,20 @@
+[
+  {
+    "id": "af3a2cac5d2b4c54a107e279808a0f24",
+    "title": "mona lisa",
+    "description": "cuadro historico",
+    "category": "Cuadros",
+    "image": "media\\img_bd04184f1ee64546925afdc5faaff8de.jpg",
+    "audio": "media\\audio_7b829754f7874501b5cb7d1821de4c15.mp3",
+    "created_at": "2025-09-19T13:50:09.909464"
+  },
+  {
+    "id": "d28f209b3aa2486492330d7d73773e7e",
+    "title": "mona lisa asd",
+    "description": "cuadro historico",
+    "category": "Espacio",
+    "image": "media\\img_b772cf8f794b4827954d901d3c5e5f8f.png",
+    "audio": "media\\audio_961fd4e3e6ee4db4a8813373c6f4f9d2.mp3",
+    "created_at": "2025-09-19T13:51:04.958088"
+  }
+]
